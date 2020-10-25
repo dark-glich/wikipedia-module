@@ -1,9 +1,9 @@
 import wikipedia
 import emoji
 running = True
-d = wikipedia.random("facts")
-print(f"{d} :\n")
-print(wikipedia.summary(d, sentences=2))
+#d = wikipedia.random("facts")
+#print(f"{d} :\n")
+#print(wikipedia.summary(d, sentences=2))
 
 
 while running:
